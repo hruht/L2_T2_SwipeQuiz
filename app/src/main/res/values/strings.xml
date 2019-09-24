@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Linux Quiz</string>
+    <string name="tv1">Quiz instructions</string>
+    <string name="tv2">Swipe left for true, swipe right for false.</string>
+    <string name="tv3">Click on the question for the answer.</string>
+    <string name="correct">Correct! The answer is: </string>
+    <string name="incorrect">Incorrect! The answer is: </string>
+    <string name="answer">The answer is: </string>
+
+</resources>
